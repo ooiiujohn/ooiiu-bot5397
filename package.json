@@ -1,0 +1,11 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "an ooiiu bot!!!",
+  "main": "bot.js",
+  "author": "John",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
